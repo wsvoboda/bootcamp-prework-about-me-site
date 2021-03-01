@@ -5,12 +5,20 @@ html {
 }
 
 h1 {
-  font-size: 40px;
+  font-size: 35px;
   text-align: center;
   margin: 0;
-  padding: 20px 0;
+  padding: 10px 0;
   color:  #442a08;
   text-shadow: 2px 2px 1px black;
+}
+h2 {
+  font-size: 30px;
+  text-align: center;
+  margin: 0;
+  padding: 10px 0;
+  color: #442a08;
+  text-shadow: 1px 1px black;
 }
 
 p, li {
@@ -28,6 +36,10 @@ body {
 }
 
 img {
+  display: block;
+  margin: 0 auto;
+}
+button {
   display: block;
   margin: 0 auto;
 }
