@@ -10,7 +10,7 @@ h1 {
   margin: 0;
   padding: 10px 0;
   color:  #442a08;
-  text-shadow: 2px 2px 1px black;
+  text-shadow: 1px 1px 1px black;
 }
 h2 {
   font-size: 30px;
@@ -28,16 +28,18 @@ p, li {
 }
 
 body {
-  width: 600px;
+  width: 70%; max-width: 800px; min-width: 400px;
   margin: 0 auto;
   background-color:  #f4d1a4;
   padding: 0 20px 20px 20px;
-  border: 5px solid black;
+  border: 3px solid black;
 }
 
 img {
   display: block;
   margin: 0 auto;
+  border: 3px solid black;
+  border-radius: 7px;
 }
 button {
   display: block;
