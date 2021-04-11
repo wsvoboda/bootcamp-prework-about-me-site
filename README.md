@@ -2,6 +2,9 @@
 Learning to code! 
 Followed MDN to create this page.
 
+You can view the page using this link: 
+https://wsvoboda.github.io/bootcamp-prework-about-me-site/
+
 #
 
 This page first asks the user for their name.
